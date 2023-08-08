@@ -1,3 +1,2 @@
 # hello-world
-
-Hello, I am an engineer who is new to python.
+&#1F648 &#1F64A &#1F649 
